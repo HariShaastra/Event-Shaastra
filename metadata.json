@@ -1,0 +1,7 @@
+{
+  "name": "Event Shaastra",
+  "description": "A simple, fast, and user-friendly event companion for participant verification, event tracking, and culturally aware planning. Strictly non-AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
